@@ -1,4 +1,4 @@
- {
+ [{
     "author" : "plagache", 
     "name" : "D-Gruvbox", 
     "keyWords" : "gruvbox",
@@ -10,3 +10,4 @@
     "creationDate" : "02/07/2022", 
     "modificationDate" : "02/07/2022"
     }
+]
