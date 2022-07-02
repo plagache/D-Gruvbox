@@ -1,0 +1,12 @@
+ {
+    "author" : "plagache", 
+    "name" : "D-Gruvbox", 
+    "keyWords" : "keyword1,keyword2",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.64", 
+    "description" : "theme grubox for dofus", 
+    "url" : "https://github.com/plagache/D-Gruvbox/raw/main/readme.zip",
+    "previewUrl" : "", 
+    "creationDate" : "02/07/2022", 
+    "modificationDate" : "02/07/2022"
+    }
